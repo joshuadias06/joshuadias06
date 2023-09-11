@@ -15,5 +15,8 @@ Sou estudante Tecnologia em Análise e Desenvolvimento de Sistemas em busca de o
 </div>
 
 ## Certificações
-- [<i class="web-basico"></i> Desenvolvimento Web - HTML,CSS,JS - Programador BR](https://certificados.programadorbr.com/certificado/DVWBJDBDF28HT30099)
+- [<i class="web-basico"></i> Desenvolvimento Web - HTML ,CSS ,JS - Programador BR](https://certificados.programadorbr.com/certificado/DVWBJDBDF28HT30099)
+- [<i class="dio-java"></i> Bootcamp DIO Java](index.html)
+- [<i class="dio-aws"></i> Bootcamp DIO AWS](index.html)
+- [<i class = ""></i>]()
 
