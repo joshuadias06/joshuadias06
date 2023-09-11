@@ -10,7 +10,11 @@ Sou estudante Tecnologia em Análise e Desenvolvimento de Sistemas em busca de o
 
 ## Contatos
 <div>
-<a href="www.linkedin.com/in/joshua-diasdev01112003"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="joshua.dbfdev@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
+  <a href="www.linkedin.com/in/joshua-diasdev01112003"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="joshua.dbfdev@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+## Certificações
+<div>
+  <a href = https://certificados.programadorbr.com/certificado/DVWBJDBDF28HT30099>HTML,,CSS,JS</a>
 </div>
