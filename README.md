@@ -1,9 +1,9 @@
-### Hi there 👋
+## Meu nome é Joshua Dias, sou estudante de Tecnologia da Informação e apaixonado por tecnologia!
 
-<!--
-**joshuadias06/joshuadias06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Sou estudante Tecnologia em Análise e Desenvolvimento de Sistemas em busca de oportunidade na área de tecnologia. Desde pequeno tenho facilidade em buscar soluções para resolver problemas. Atualmente trabalho como Fiscal de Prevenção de Perdas na empresa Atacadão, e nesta função meu objetivo é me tornar um bom comunicador e desenvolver minhas habilidades em dinâmicas de grupo. Meu objetivo na área de Tecnologia é me tornar um desenvolver Java trabalhando com computação em nuvem (AWS/Google Cloud), no atual momento estou me aprimorando em Java, Spring Framework, MySQL, e documentação com UML.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
