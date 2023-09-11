@@ -15,6 +15,5 @@ Sou estudante Tecnologia em Análise e Desenvolvimento de Sistemas em busca de o
 </div>
 
 ## Certificações
-<div>
- - <a href = https://certificados.programadorbr.com/certificado/DVWBJDBDF28HT30099>HTML,,CSS,JS</a>
-</div>
+- [<i class="web-basico"></i> HTML - CSS - JS]([https://www.udemy.com/certificate/UC-59c122bc-c944-425a-90ba-a99772f3aee6/](https://certificados.programadorbr.com/certificado/DVWBJDBDF28HT30099))
+
