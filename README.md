@@ -16,5 +16,5 @@ Sou estudante Tecnologia em Análise e Desenvolvimento de Sistemas em busca de o
 
 ## Certificações
 <div>
-  <a href = https://certificados.programadorbr.com/certificado/DVWBJDBDF28HT30099>HTML,,CSS,JS</a>
+ - <a href = https://certificados.programadorbr.com/certificado/DVWBJDBDF28HT30099>HTML,,CSS,JS</a>
 </div>
