@@ -15,5 +15,5 @@ Sou estudante Tecnologia em Análise e Desenvolvimento de Sistemas em busca de o
 </div>
 
 ## Certificações
-- [<i class="web-basico"></i> HTML - CSS - JS](https://certificados.programadorbr.com/certificado/DVWBJDBDF28HT30099)
+- [<i class="web-basico"></i> Desenvolvimento Web - HTML,CSS,JS - Programador BR](https://certificados.programadorbr.com/certificado/DVWBJDBDF28HT30099)
 
