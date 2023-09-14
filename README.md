@@ -2,7 +2,7 @@
 Meu nome é Joshua Dias, sou estudante de Tecnologia da Informação e apaixonado por tecnologia!
 
 ## Sobre mim
-Sou estudante Tecnologia em Análise e Desenvolvimento de Sistemas em busca de oportunidade na área de tecnologia. Desde pequeno tenho facilidade em buscar soluções para resolver problemas. Atualmente trabalho como Fiscal de Prevenção de Perdas na empresa Atacadão, e nesta função meu objetivo é me tornar um bom comunicador e desenvolver minhas habilidades em dinâmicas de grupo. Meu objetivo na área de Tecnologia é me tornar um desenvolver Java trabalhando com computação em nuvem (AWS/Google Cloud), no atual momento estou me aprimorando em Java, Spring Framework, MySQL, e documentação com UML.
+Sou de estudante Tecnologia em Análise e Desenvolvimento de Sistemas em busca de oportunidade na área de tecnologia. Desde pequeno tenho facilidade em buscar soluções para resolver problemas. Atualmente trabalho como Fiscal de Prevenção de Perdas na empresa Atacadão, e nesta função meu objetivo é me tornar um bom comunicador e desenvolver minhas habilidades em dinâmicas de grupo. Meu objetivo na área de Tecnologia é me tornar um desenvolver Java trabalhando com computação em nuvem (AWS/Google Cloud), no atual momento estou me aprimorando em Java, Spring Framework, MySQL, e documentação com UML.
 
 ## Tecnologias
 
