@@ -2,7 +2,9 @@
 Meu nome é Joshua Dias, sou estudante de Tecnologia e apaixonado por tecnologia!
 
 ## Sobre mim
-Estou cursando Sistemas de Informação em busca de oportunidade na área de tecnologia. Desde pequeno tenho facilidade em buscar soluções para resolver problemas. Atualmente trabalho como Fiscal de Prevenção de Perdas na empresa Atacadão, e nesta função meu objetivo é me tornar um bom comunicador e desenvolver minhas habilidades em dinâmicas de grupo. Meu objetivo na área de Tecnologia é me tornar um desenvolver Java trabalhando com computação em nuvem (AWS/Google Cloud), no atual momento estou me aprimorando em Java, Spring Framework, MySQL, e documentação com UML.
+Carreira sendo desenvolvida na Área de Tecnologia da Informação, sou um profissional de 20 anos com formação iniciada em Desenvolvimento de Sistemas adquirida durante meu ensino técnico e atualmente cursando Bacharelado em Sistemas de Informação. Tenho experiência de trabalho desde junho de 2022 na área de Prevenção de Perdas no Atacadão, onde desenvolvi habilidades analíticas e de resolução de problemas, essenciais para a área de tecnologia. 
+
+Estou buscando iniciar minha jornada na área de Tecnologia e Desenvolvimento onde já possuo conhecimento prático em Java e Javascript e o framework Spring Boot. Além disso experiência em SQL, Kotlin, React, Bootstrap, Git e Node.js.Valorizo profundamente o trabalho em equipe e estou sempre em busca de aprender novas tecnologias e metodologias para enfrentar e solucionar desafios do dia a dia; Meu foco é contribuir de forma eficaz para projetos de desenvolvimento, agregando valor através de soluções inovadoras e bem estruturadas.
 
 ## Tecnologias
 
@@ -13,9 +15,3 @@ Estou cursando Sistemas de Informação em busca de oportunidade na área de tec
   <a href="www.linkedin.com/in/joshua-diasdev01112003"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="joshua.dbfdev@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-
-## Certificações
-- [<i class="web-basico"></i> Desenvolvimento Web - HTML ,CSS ,JS - Programador BR](https://certificados.programadorbr.com/certificado/DVWBJDBDF28HT30099)
-- [<i class="java-nelio"></i> Desenvolvimento Java - Java OO, Spring Framework, ](index.html)
-- [<i class="dio-java"></i> Bootcamp DIO Java](index.html)
-- [<i class="dio-aws"></i> Bootcamp DIO Java com Cloud AWS](index.html)
