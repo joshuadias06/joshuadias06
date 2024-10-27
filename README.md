@@ -8,7 +8,7 @@ Estou buscando iniciar minha jornada na área de Tecnologia e Desenvolvimento on
 
 ## Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,mysql,js,nodejs,react,git,azure,aws&perline=17)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,kotlin,mysql,postgree,js,nodejs,react,git,azure,aws&perline=17)](https://skillicons.dev)
 
 ## Linguagens Mais Usadas
 
