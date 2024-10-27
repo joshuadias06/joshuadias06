@@ -1,5 +1,5 @@
 ## Desenvolvedor Joshua Dias
-Meu nome é Joshua Dias, sou estudante de Tecnologia e apaixonado por tecnologia!
+Meu nome é Joshua Dias, sou estudante de Sistemas de Informação e apaixonado por tecnologia!
 
 ## Sobre mim
 Carreira sendo desenvolvida na Área de Tecnologia da Informação, sou um profissional de 20 anos com formação iniciada em Desenvolvimento de Sistemas adquirida durante meu ensino técnico e atualmente cursando Bacharelado em Sistemas de Informação. Tenho experiência de trabalho desde junho de 2022 na área de Prevenção de Perdas no Atacadão, onde desenvolvi habilidades analíticas e de resolução de problemas, essenciais para a área de tecnologia. 
