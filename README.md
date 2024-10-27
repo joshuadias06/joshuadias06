@@ -1,4 +1,4 @@
-## Desenvolvedor Joshua Dias
+## Dev Joshua Dias
 Meu nome é Joshua Dias, sou estudante de Sistemas de Informação e apaixonado por tecnologia!
 
 ## Sobre mim
