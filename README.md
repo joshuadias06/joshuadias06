@@ -15,3 +15,6 @@ Estou buscando iniciar minha jornada na área de Tecnologia e Desenvolvimento on
   <a href="https://www.linkedin.com/in/joshua-dias-8960121ba/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="joshua.dbfdev@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+##Linguagens
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadias06&layout=compact&langs_count=6&theme=dark)
+
