@@ -12,7 +12,7 @@ Estou buscando iniciar minha jornada na área de Tecnologia e Desenvolvimento on
 
 ## Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadias06&layout=compact&langs_count=6&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadias06&layout=compact&langs_count=6&theme=light)
 
 ## Contatos
 <div>
