@@ -10,10 +10,6 @@ Estou buscando iniciar minha jornada na área de Tecnologia e Desenvolvimento, o
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,kotlin,mysql,postgres,js,nodejs,react,git,aws,docker&perline=17)](https://skillicons.dev)
 
-## Estátisticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joshuadias06&show_icons=true&theme=dark)
-
 ## Linguagens Mais Usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadias06&layout=compact&langs_count=6&theme=dark)
