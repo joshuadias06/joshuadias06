@@ -1,4 +1,4 @@
-## Dev Joshua Dias
+## Dev Back-End Joshua Dias
 Meu nome é Joshua Dias, sou estudante de Sistemas de Informação e apaixonado por tecnologia, inovação e arquitetura de soluções!
 
 ## Sobre mim
