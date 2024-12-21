@@ -6,10 +6,6 @@ Carreira sendo desenvolvida na Área de Tecnologia da Informação, sou um profi
 
 Estou buscando iniciar minha jornada na área de Tecnologia e Desenvolvimento, onde já possuo conhecimento prático em Java, Python, Kotlin, JavaScript e o framework Spring Boot. Além disso, tenho experiência em SQL, Kotlin, React, Bootstrap, Git e Node.js. Valorizo profundamente o trabalho em equipe e estou sempre em busca de aprender novas tecnologias e metodologias para enfrentar e solucionar desafios do dia a dia. Meu foco é contribuir de forma eficaz para projetos de desenvolvimento, agregando valor através de soluções inovadoras e bem estruturadas com conceitos técnicos adquiridos ao longo da minha jornada.
 
-## Estágio
-
-Em processo...
-
 ## Tecnologias
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,kotlin,mysql,postgres,js,nodejs,react,git,aws,docker&perline=17)](https://skillicons.dev)
