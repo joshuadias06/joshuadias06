@@ -2,10 +2,11 @@
 Meu nome é Joshua Dias, sou estudante de Sistemas de Informação e apaixonado por tecnologia, inovação e arquitetura de soluções!
 
 ## Sobre mim
-Carreira sendo desenvolvida na Área de Tecnologia da Informação, sou um profissional de 21 anos com formação iniciada em Desenvolvimento de Sistemas adquirida durante meu ensino técnico e atualmente cursando Bacharelado em Sistemas de Informação. Tenho experiência de trabalho desde junho de 2022 na área de Prevenção de Perdas no Atacadão, onde desenvolvi habilidades analíticas, criação e automatização de processos e de resolução de problemas, essenciais para a área de tecnologia.
+Carreira em desenvolvimento na área de Tecnologia da Informação, com formação técnica em Desenvolvimento de Sistemas e atualmente cursando Bacharelado em Sistemas de Informação. Possuo experiência profissional desde 2022 na Prevenção de Perdas no Atacadão, onde desenvolvi habilidades analíticas e de resolução de problemas que complementam minha atuação no setor de tecnologia.
 
-Estou buscando iniciar minha jornada na área de Tecnologia e Desenvolvimento, onde já possuo conhecimento prático em Java, Python, Kotlin, JavaScript e o framework Spring Boot. Além disso, tenho experiência em SQL, React, Bootstrap, Git, GitHub e Node.js. Valorizo profundamente o trabalho em equipe e estou sempre em busca de aprender novas tecnologias e metodologias para enfrentar e solucionar desafios do dia a dia. Meu foco é contribuir de forma eficaz para projetos de desenvolvimento, agregando valor através de soluções inovadoras e bem estruturadas com conceitos técnicos adquiridos ao longo da minha jornada.
+Tenho conhecimento em algoritmos e estruturas de dados, além de habilidades técnicas diversificadas. No front-end, trabalho com React, jQuery, Bootstrap, HTML, CSS e JavaScript, enquanto no back-end atuo com Java (Spring Boot), Python (Django) e Node.js. Em bancos de dados, tenho experiência com MySQL, PostgreSQL e H2, bem como no uso de bancos relacionais.
 
+Adoto metodologias ágeis como Scrum e Kanban para organização e entrega de projetos. Valorizo o trabalho em equipe, o aprendizado contínuo e o desenvolvimento de soluções inovadoras que agreguem valor. Meu objetivo é contribuir para projetos desafiadores com código bem estruturado, qualidade e impacto positivo no resultado final.
 ## Tecnologias
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,kotlin,mysql,postgres,js,nodejs,react,git,aws,docker&perline=17)](https://skillicons.dev)
