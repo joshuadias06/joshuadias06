@@ -4,7 +4,7 @@ Meu nome é Joshua Dias, sou estudante de Sistemas de Informação e apaixonado 
 ## Sobre mim
 Carreira em desenvolvimento na área de Tecnologia da Informação, com formação técnica em Desenvolvimento de Sistemas e atualmente cursando Bacharelado em Sistemas de Informação. Possuo experiência profissional desde 2022 na Prevenção de Perdas no Atacadão, onde desenvolvi habilidades analíticas e de resolução de problemas que complementam minha atuação no setor de tecnologia.
 
-Tenho conhecimento em algoritmos e estruturas de dados, além de habilidades técnicas diversificadas. No front-end, trabalho com React, jQuery, Bootstrap, HTML, CSS e JavaScript, enquanto no back-end atuo com Java (Spring Boot), Python (Django) e Node.js. Em bancos de dados, tenho experiência com MySQL, PostgreSQL e H2, bem como no uso de bancos relacionais.
+Tenho conhecimento em algoritmos e estruturas de dados, além de habilidades técnicas diversificadas. No front-end, trabalho com React, jQuery, Bootstrap, HTML, CSS e JavaScript, enquanto no back-end atuo com Java (Spring Boot), Python (Django e Flask) IA e Node.js. Em bancos de dados, tenho experiência com MySQL, PostgreSQL e H2, bem como no uso de bancos relacionais.
 
 Adoto metodologias ágeis como Scrum e Kanban para organização e entrega de projetos. Valorizo o trabalho em equipe, o aprendizado contínuo e o desenvolvimento de soluções inovadoras que agreguem valor. Meu objetivo é contribuir para projetos desafiadores com código bem estruturado, qualidade e impacto positivo no resultado final.
 ## Tecnologias
