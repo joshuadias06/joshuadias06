@@ -7,6 +7,9 @@ Carreira em desenvolvimento na área de Tecnologia da Informação, com formaç�
 Tenho conhecimento em algoritmos e estruturas de dados, além de habilidades técnicas diversificadas. No front-end, trabalho com React, jQuery, Bootstrap, HTML, CSS e JavaScript, enquanto no back-end atuo com Java (Spring Boot), Python (Django e Flask) IA e Node.js. Em bancos de dados, tenho experiência com MySQL, PostgreSQL e H2, bem como no uso de bancos relacionais.
 
 Adoto metodologias ágeis como Scrum e Kanban para organização e entrega de projetos. Valorizo o trabalho em equipe, o aprendizado contínuo e o desenvolvimento de soluções inovadoras que agreguem valor. Meu objetivo é contribuir para projetos desafiadores com código bem estruturado, qualidade e impacto positivo no resultado final.
+
+Estágio ...
+
 ## Tecnologias
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,kotlin,mysql,postgres,js,nodejs,react,git,aws,docker&perline=17)](https://skillicons.dev)
