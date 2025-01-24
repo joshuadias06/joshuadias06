@@ -8,7 +8,7 @@ Tenho conhecimento em algoritmos e estruturas de dados, além de habilidades té
 
 Adoto metodologias ágeis como Scrum e Kanban para organização e entrega de projetos. Valorizo o trabalho em equipe, o aprendizado contínuo e o desenvolvimento de soluções inovadoras que agreguem valor. Meu objetivo é contribuir para projetos desafiadores com código bem estruturado, qualidade e impacto positivo no resultado final.
 
-Estágio ...
+Estágio
 
 ## Tecnologias
 
