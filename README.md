@@ -12,7 +12,7 @@ Estágio QA - ...
 
 ## Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,kotlin,mysql,postgres,js,nodejs,react,git,aws,docker&perline=17)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,kotlin,cypress,selenium,postman,mysql,postgres,js,nodejs,react,git,aws,docker&perline=17)](https://skillicons.dev)
 
 ## Linguagens Mais Usadas
 
