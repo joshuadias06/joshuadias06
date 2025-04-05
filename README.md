@@ -2,13 +2,13 @@
 Meu nome é Joshua Dias, sou estudante de Sistemas de Informação e apaixonado por tecnologia, inovação e arquitetura de soluções!
 
 ## Sobre mim
-Carreira em desenvolvimento na área de Tecnologia da Informação, com formação técnica em Desenvolvimento de Sistemas e atualmente cursando Bacharelado em Sistemas de Informação. Possuo experiência profissional desde 2022 na Prevenção de Perdas no Atacadão, onde desenvolvi habilidades analíticas e de resolução de problemas que complementam minha atuação no setor de tecnologia.
+Movido pela curiosidade e pelo desejo de entregar soluções de alto impacto, estou sempre em busca de aprimoramento e novas perspectivas na área de tecnologia. Meu foco está na qualidade de software e gestão de produtos, garantindo que cada entrega atenda aos mais altos padrões de eficiência, usabilidade e valor para o usuário. Acredito que a combinação entre análise estratégica, visão orientada a dados e validação contínua é essencial para impulsionar produtos de sucesso.
 
-Tenho conhecimento em algoritmos e estruturas de dados, além de habilidades técnicas diversificadas. No front-end, trabalho com React, jQuery, Bootstrap, HTML, CSS e JavaScript, enquanto no back-end atuo com Java (Spring Boot), Python (Django e Flask) IA e Node.js. Em bancos de dados, tenho experiência com MySQL, PostgreSQL e H2, bem como no uso de bancos relacionais.
+Atualmente, estou cursando Bacharelado em Sistemas de Informação, onde desenvolvo uma base sólida em engenharia de software, banco de dados, segurança da informação e metodologias ágeis. Paralelamente, atuo como Estagiário de QA no Time de Produtos da Acqio, realizando testes de regressão, testes ponta a ponta (E2E), testes exploratórios, testes de usabilidade, testes de aceitação de usuário (UAT) e testes de carga e estresse. Também contribuo na análise de requisitos, análise de dados e desenvolvimento de produtos, garantindo que as soluções atendam às necessidades dos usuários e aos objetivos estratégicos da empresa.
 
-Adoto metodologias ágeis como Scrum e Kanban para organização e entrega de projetos. Valorizo o trabalho em equipe, o aprendizado contínuo e o desenvolvimento de soluções inovadoras que agreguem valor. Meu objetivo é contribuir para projetos desafiadores com código bem estruturado, qualidade e impacto positivo no resultado final.
+Tenho experiência com tecnologias como Java, JavaScript, Cypress, Selenium, Azure, GitHub, BitBucket e MySQL, além de conhecimentos em engenharia de software e desenvolvimento de aplicações web. Busco constantemente aprimorar minhas habilidades técnicas e analíticas para atuar de forma cada vez mais estratégica no desenvolvimento e qualidade de software.
 
-Estágio QA - ...
+Meu objetivo é continuar evoluindo na área de tecnologia, contribuindo para projetos desafiadores e entregando soluções eficientes e inovadoras. Valorizo o aprendizado contínuo, a colaboração e a busca pela excelência em cada etapa do processo de desenvolvimento.
 
 ## Tecnologias
 
