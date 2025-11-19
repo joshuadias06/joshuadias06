@@ -6,7 +6,7 @@ Movido pela curiosidade e pelo desejo de entregar soluções de alto impacto, es
 
 Atualmente, estou cursando Bacharelado em Sistemas de Informação, onde desenvolvo uma base sólida em engenharia de software, banco de dados, segurança da informação e metodologias ágeis. Paralelamente, atuo como Estagiário de QA no Time de Produtos da Acqio, realizando testes de regressão, testes ponta a ponta (E2E), testes exploratórios, testes de usabilidade, testes de aceitação de usuário (UAT) e testes de carga e estresse. Também contribuo na análise de requisitos, análise de dados e desenvolvimento de produtos, garantindo que as soluções atendam às necessidades dos usuários e aos objetivos estratégicos da empresa.
 
-Tenho experiência com tecnologias como Java, JavaScript, Cypress, Selenium, Azure, GitHub, BitBucket e MySQL, além de conhecimentos em engenharia de software e desenvolvimento de aplicações web. Busco constantemente aprimorar minhas habilidades técnicas e analíticas para atuar de forma cada vez mais estratégica no desenvolvimento e qualidade de software.
+Tenho experiência com tecnologias como Java, JavaScript, TypeScript, Cypress, Selenium, Azure, GitHub, BitBucket e MySQL, além de conhecimentos em engenharia de software e desenvolvimento de aplicações web. Busco constantemente aprimorar minhas habilidades técnicas e analíticas para atuar de forma cada vez mais estratégica no desenvolvimento e qualidade de software.
 
 Meu objetivo é continuar evoluindo na área de tecnologia, contribuindo para projetos desafiadores e entregando soluções eficientes e inovadoras. Valorizo o aprendizado contínuo, a colaboração e a busca pela excelência em cada etapa do processo de desenvolvimento.
 
