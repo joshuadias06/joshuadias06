@@ -1,18 +1,17 @@
-## Joshua Dias
+# Joshua Dias
+
 Meu nome é Joshua Dias, sou estudante de Sistemas de Informação e apaixonado por tecnologia, inovação e arquitetura de soluções!
 
-## Sobre mim
-Movido pela curiosidade e pelo desejo de entregar soluções de alto impacto, estou sempre em busca de aprimoramento e novas perspectivas na área de tecnologia. Meu foco está na qualidade de software e gestão de produtos, garantindo que cada entrega atenda aos mais altos padrões de eficiência, usabilidade e valor para o usuário. Acredito que a combinação entre análise estratégica, visão orientada a dados e validação contínua é essencial para impulsionar produtos de sucesso.
+## Sobre Mim
 
-Atualmente, estou cursando Bacharelado em Sistemas de Informação, onde desenvolvo uma base sólida em engenharia de software, banco de dados, segurança da informação e metodologias ágeis. Paralelamente, atuo como Estagiário de QA no Time de Produtos da Acqio, realizando testes de regressão, testes ponta a ponta (E2E), testes exploratórios, testes de usabilidade, testes de aceitação de usuário (UAT) e testes de carga e estresse. Também contribuo na análise de requisitos, análise de dados e desenvolvimento de produtos, garantindo que as soluções atendam às necessidades dos usuários e aos objetivos estratégicos da empresa.
+Sou Desenvolvedor de Software Android atuando no ecossistema de pagamentos digitais, com forte direcionamento para qualidade, segurança e alta performance. Atuo de forma estratégica unindo desenvolvimento, testes e visão de produto para entregar soluções robustas e escaláveis.
 
-Tenho experiência com tecnologias como Java, JavaScript, TypeScript, Cypress, Selenium, Azure, GitHub, BitBucket e MySQL, além de conhecimentos em engenharia de software e desenvolvimento de aplicações web. Busco constantemente aprimorar minhas habilidades técnicas e analíticas para atuar de forma cada vez mais estratégica no desenvolvimento e qualidade de software.
+Curso Bacharelado em Sistemas de Informação e atuo como Estagiário de QA no Time de Engenharia da Acqio, realizando testes de regressão, E2E, exploratórios, UAT, carga e estresse em soluções críticas de meios de pagamento, com foco em validação transacional, prevenção de falhas e conformidade com padrões de qualidade e segurança.
 
-Meu objetivo é continuar evoluindo na área de tecnologia, contribuindo para projetos desafiadores e entregando soluções eficientes e inovadoras. Valorizo o aprendizado contínuo, a colaboração e a busca pela excelência em cada etapa do processo de desenvolvimento.
+Possuo experiência prática com Java, Kotlin, Android, Jetpack Compose, SQLite, ADB, Espresso, Selenium, Appium, Git, GitHub, Azure e MySQL, SQLite, além de integração via APIs e aplicações web. Busco evolução contínua como Desenvolvedor Android especializado em soluções financeiras, entregando produtos seguros, escaláveis e centrados no usuário.
 
 ## Tecnologias
-
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,androidstudio,gradle,sqlite,python,cypress,selenium,postman,mysql,postgres,js,git,aws,docker&perline=17)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,androidstudio,gradle,selenium,postman,sqlite,mysql,postgres,js,git,aws,docker&theme=dark)](https://skillicons.dev)
 
 ## Linguagens Mais Usadas
 
