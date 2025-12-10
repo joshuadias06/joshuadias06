@@ -1,4 +1,10 @@
-# Joshua Dias
+<div>
+  <img style="100%" 
+       src="https://capsule-render.vercel.app/api?type=waving&height=77&section=header&reversal=false&text=Joshua%20Dias&fontSize=50&fontColor=3B82F6&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  
+  />
+</div>
+
+
 
 Meu nome é Joshua Dias, sou estudante de Sistemas de Informação e apaixonado por tecnologia, inovação e arquitetura de soluções!
 
