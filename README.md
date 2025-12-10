@@ -12,7 +12,7 @@ Meu objetivo é continuar evoluindo na área de tecnologia, contribuindo para pr
 
 ## Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,androidstudio,gradle,sqlite,python,cypress,selenium,postman,mysql,postgres,js,nodejs,react,git,aws,docker&perline=17)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,androidstudio,gradle,sqlite,python,cypress,selenium,postman,mysql,postgres,js,git,aws,docker&perline=17)](https://skillicons.dev)
 
 ## Linguagens Mais Usadas
 
