@@ -45,6 +45,3 @@ Possuo experiência prática com Java, Kotlin, Android, Jetpack Compose, SQLite,
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadias06&layout=compact&langs_count=6&theme=dark)
 
 ## Contatos
-<div>
-  <a href="https://www.linkedin.com/in/joshua-dias-8960121ba/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
